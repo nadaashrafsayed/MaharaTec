@@ -1,2 +1,2 @@
 # MaharaTec
-MaharaTec Courses that has been done
+MaharaTec Courses that have been done
